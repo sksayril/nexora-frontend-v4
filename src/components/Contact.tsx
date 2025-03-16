@@ -69,7 +69,7 @@ export default function Contact() {
           >
             <div className="aspect-w-16 aspect-h-9">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d387193.30596698663!2d-74.25987368715491!3d40.69714941932609!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY!5e0!3m2!1sen!2sus!4v1645564756836!5m2!1sen!2sus"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3721.3077822533496!2d72.7941876!3d21.140146299999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be04df8c842a501%3A0x263c40ab54c154c6!2sBhagwan%20Mahavir%20University!5e0!3m2!1sen!2sin!4v1742152215752!5m2!1sen!2sin"
                 className="w-full h-full rounded-xl"
                 style={{ border: 0 }}
                 allowFullScreen
