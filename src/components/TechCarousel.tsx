@@ -4,19 +4,19 @@ import { Autoplay } from 'swiper/modules';
 import 'swiper/css';
 
 const technologies = [
-  { image: '../../public/mongo.png', name: 'Mongodb' },
-  { image: '../../public/Reactlog.jpg', name: 'React' },
-  { image: '../../public/nextjs.png', name: 'Next Js' },
-  { image: '../../public/nodejs.png', name: 'Node Js' },
-  { image: '../../public/Tailwind_CSS_Logo.svg.png', name: 'Tailwind CSS' },
-  { image: '../../public/geminiai.png', name: 'Gemini Ai' },
-  { image: '../../public/indexdb.png', name: 'Index DB' },
-  { image: '../../public/quadrantdb.png', name: 'QuaDrant DB' },
-  { image: '../../public/huggingface-color.png', name: 'HuggingFace Models' },
-  { image: '../../public/Figma-Logo-PNG-Isolated-HD.png', name: 'Figma' },
-  { image: '../../public/cnava.png', name: 'Canva' },
-  { image: '../../public/1681038242chatgpt-logo-png.png', name: 'Chatgpt' },
-  { image: '../../public/claude-ai-icon-65aa.png', name: 'Claude Ai' },
+  { image: '/mongo.png', name: 'Mongodb' },
+  { image: '/Reactlog.jpg', name: 'React' },
+  { image: '/nextjs.png', name: 'Next Js' },
+  { image: '/nodejs.png', name: 'Node Js' },
+  { image: '/Tailwind_CSS_Logo.svg.png', name: 'Tailwind CSS' },
+  { image: '/geminiai.png', name: 'Gemini Ai' },
+  { image: '/indexdb.png', name: 'Index DB' },
+  { image: '/quadrantdb.png', name: 'QuaDrant DB' },
+  { image: '/huggingface-color.png', name: 'HuggingFace Models' },
+  { image: '/Figma-Logo-PNG-Isolated-HD.png', name: 'Figma' },
+  { image: '/cnava.png', name: 'Canva' },
+  { image: '/1681038242chatgpt-logo-png.png', name: 'Chatgpt' },
+  { image: '/claude-ai-icon-65aa.png', name: 'Claude Ai' },
   
 ];
 
