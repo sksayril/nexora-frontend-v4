@@ -4,7 +4,7 @@ import image2data from '../../public/image2data.jpg';
 import thecpccal from '../../public/7thcpccalculator.png';
 import b2bbusinessleads from '../../public/b2bbusinessleads.png';
 import WebsiteBuilderAi from '../../public/websitebulderai.png';
-
+import Travelplannerlogo from '../../public/travelplaneer.png';
 const projects = [
   {
     title: 'Image To Data',
@@ -12,12 +12,18 @@ const projects = [
     image: image2data,
     url: 'https://image2data.site/'
   },
-  // {
-  //   title: '7th CpC Calculator',
-  //   description: 'Cpc calculator based on the salary amount and much more.',
-  //   image: thecpccal,
-  //   url: 'https://7thcpccalculator.cripcocode.org'
-  // },
+  {
+    title: 'Travel Ai',
+    description: 'Set your location and buget and travel date ai help to make the plan you trip.',
+    image: Travelplannerlogo,
+    url: 'https://travelai.nexora-ai.co.in/'
+  },
+  {
+    title: '7th CpC Calculator',
+    description: 'Cpc calculator based on the salary amount and much more.',
+    image: thecpccal,
+    url: 'https://7thcpccalculator.cripcocode.org'
+  },
   {
     title: 'B2B Business Leads Generator',
     description: 'AI-driven maintenance prediction system.',
