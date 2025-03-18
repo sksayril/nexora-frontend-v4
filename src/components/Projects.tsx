@@ -5,6 +5,7 @@ import thecpccal from '../../public/7thcpccalculator.png';
 import b2bbusinessleads from '../../public/b2bbusinessleads.png';
 import WebsiteBuilderAi from '../../public/websitebulderai.png';
 import Travelplannerlogo from '../../public/travelplaneer.png';
+import resumebuilderai from '../../public/previewresumebuilder.jpg';
 const projects = [
   {
     title: 'Image To Data',
@@ -17,6 +18,12 @@ const projects = [
     description: 'Set your location and buget and travel date ai help to make the plan you trip.',
     image: Travelplannerlogo,
     url: 'https://travelai.nexora-ai.co.in/'
+  },
+  {
+    title: 'Resume Builder AI',
+    description: 'AI-driven maintenance to have make the ATS ranking based RESUME.',
+    image: resumebuilderai,
+    url: 'https://resumebuilder.nexora-ai.co.in/'
   },
   {
     title: '7th CpC Calculator',
