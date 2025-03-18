@@ -4,6 +4,7 @@ import { Linkedin, Github, } from 'lucide-react';
 import sayrilimage from '../../public/sayril.jpg';
 import vaibahimage from '../../public/vaibavh.jpeg';
 import khushiimage from '../../public/khushi.jpg';
+import aliimage from '../../public/ali2.png';
 const teamMembers = [
   {
     name: 'SK Sayril Amed',
@@ -13,14 +14,7 @@ const teamMembers = [
     github: 'https://github.com/sksayril',
     description: 'Expert in machine learning and neural networks Large Language models with AI agents, Also working as Full Stack Developer handle Servers Also',
   },
-  {
-    name: 'Ali Chauhan',
-    role: 'Backend Developer',
-    image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=300&fit=crop&auto=format',
-    linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
-    description: 'Specializes in Making Backend Apis and connected mongodb nad Make Api Services.',
-  },
+  
   {
     name: 'Vaibah Singh',
     role: 'Front End Developer',
@@ -28,6 +22,14 @@ const teamMembers = [
     linkedin: 'https://linkedin.com',
     github: 'https://github.com',
     description: 'Make interactive ui with based on ui ux with proper optimized coding React and Nextjs',
+  },
+  {
+    name: 'Ali Chauhan',
+    role: 'Backend Developer',
+    image: aliimage,
+    linkedin: 'https://linkedin.com',
+    github: 'https://github.com',
+    description: 'Specializes in Making Backend Apis and connected mongodb nad Make Api Services.',
   },
   {
     name: 'Khushi Shah',

@@ -324,15 +324,15 @@ export default function Hero() {
           
           <TextReveal delay={0.6}>
             <div className="mt-10 flex gap-x-6 justify-center">
-              <motion.a
+              {/* <motion.a
                 onHoverStart={() => setHovered(true)}
                 onHoverEnd={() => setHovered(false)}
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
                 href="#"
                 className="rounded-md bg-blue-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-blue-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600 transition-all duration-300 flex items-center gap-2 relative overflow-hidden"
-              >
-                <AnimatePresence>
+              > */}
+                {/* <AnimatePresence>
                   {hovered && (
                     <motion.div
                       initial={{ x: "-100%" }}
@@ -342,23 +342,23 @@ export default function Hero() {
                       className="absolute inset-0 bg-white opacity-20"
                     />
                   )}
-                </AnimatePresence>
-                <span className="relative z-10">Get Started</span>
-                <motion.div
+                </AnimatePresence> */}
+                {/* <span className="relative z-10">Get Started</span> */}
+                {/* <motion.div
                   animate={hovered ? { x: 5 } : { x: 0 }}
                   transition={{ type: "spring", stiffness: 300, damping: 10 }}
                   className="relative z-10"
-                >
-                  <ArrowRight size={16} />
-                </motion.div>
-              </motion.a>
-              <motion.a
+                > */}
+                  {/* <ArrowRight size={16} /> */}
+                {/* </motion.div> */}
+              {/* </motion.a> */}
+              {/* <motion.a
                 whileHover={{ x: 5 }}
                 href="#"
                 className="text-sm font-semibold leading-6 text-gray-300 flex items-center gap-2"
               >
                 Learn more <ArrowRight size={16} />
-              </motion.a>
+              </motion.a> */}
             </div>
           </TextReveal>
         </motion.div>

@@ -18,7 +18,7 @@ export default function Navbar() {
             <div className="ml-10 flex items-center space-x-4">
               <a href="#" className="text-gray-700 dark:text-gray-300 hover:text-black dark:hover:text-white px-3 py-2">Home</a>
               <a href="#about" className="text-gray-700 dark:text-gray-300 hover:text-black dark:hover:text-white px-3 py-2">About</a>
-              <a href="#projects" className="text-gray-700 dark:text-gray-300 hover:text-black dark:hover:text-white px-3 py-2">Projects</a>
+              <a href="#projects" className="text-gray-700 dark:text-gray-300 hover:text-black dark:hover:text-white px-3 py-2">Products</a>
               <button
                 onClick={toggleTheme}
                 className="p-2 rounded-lg bg-gray-100 dark:bg-gray-800 text-gray-800 dark:text-gray-200"
