@@ -1,7 +1,8 @@
 import React from 'react';
 import { ArrowRight } from 'lucide-react';
 import image2data from '../../public/image2data.jpg';
-import thecpccal from '../../public/7thcpccalculator.png';
+// import thecpccal from '../../public/7thcpccalculator.png';
+import quizgenai from '../../public/quizgeneratorai.jpg';
 import b2bbusinessleads from '../../public/b2bbusinessleads.png';
 import WebsiteBuilderAi from '../../public/websitebulderai.png';
 import Travelplannerlogo from '../../public/travelplaneer.png';
@@ -26,11 +27,17 @@ const projects = [
     url: 'https://resumebuilder.nexora-ai.co.in/'
   },
   {
-    title: '7th CpC Calculator',
-    description: 'Cpc calculator based on the salary amount and much more.',
-    image: thecpccal,
-    url: 'https://7thcpccalculator.cripcocode.org'
+    title: 'Quiz Generator Ai',
+    description: 'AI-driven quiz generator to have make the quiz based on the user input.',
+    image: quizgenai,
+    url: 'https://quizgenerator.nexora-ai.co.in/'
   },
+  // {
+  //   title: '7th CpC Calculator',
+  //   description: 'Cpc calculator based on the salary amount and much more.',
+  //   image: thecpccal,
+  //   url: 'https://7thcpccalculator.cripcocode.org'
+  // },
   {
     title: 'B2B Business Leads Generator',
     description: 'AI-driven maintenance prediction system.',
