@@ -2,8 +2,8 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { Linkedin, Github, } from 'lucide-react';
 import sayrilimage from '../../public/sayril.jpg';
-import vaibahimage from '../../public/vaibavh.jpeg';
-import khushiimage from '../../public/khushi.jpg';
+import vaibahimage from '../../public/vaibahvhimage-removebg-preview.png';
+import khushiimage from '../../public/khushiimage.jpg';
 import aliimage from '../../public/aliimage-removebg-preview.png';
 const teamMembers = [
   {
@@ -33,10 +33,10 @@ const teamMembers = [
   },
   {
     name: 'Khushi Shah',
-    role: 'Apllication Tester',
+    role: 'Application Tester',
     image: khushiimage,
-    linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+    linkedin: 'https://www.linkedin.com/in/khushi-shah-50a524358',
+    github: 'https://github.com/khushi6630',
     description: 'Testing application to have check on bugs and errors and make sure the application is working fine.',
   },
 ];
