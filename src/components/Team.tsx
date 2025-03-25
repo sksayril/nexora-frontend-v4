@@ -4,7 +4,7 @@ import { Linkedin, Github, } from 'lucide-react';
 import sayrilimage from '../../public/sayril.jpg';
 import vaibahimage from '../../public/vaibavh.jpeg';
 import khushiimage from '../../public/khushi.jpg';
-import aliimage from '../../public/ali2.png';
+import aliimage from '../../public/aliimage-removebg-preview.png';
 const teamMembers = [
   {
     name: 'SK Sayril Amed',

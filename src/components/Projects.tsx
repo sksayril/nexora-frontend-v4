@@ -7,12 +7,13 @@ import b2bbusinessleads from '../../public/b2bbusinessleads.png';
 import WebsiteBuilderAi from '../../public/websitebulderai.png';
 import Travelplannerlogo from '../../public/travelplaneer.png';
 import resumebuilderai from '../../public/previewresumebuilder.jpg';
+import Recipiai from '../../public/recipiai.jpg';
 const projects = [
   {
-    title: 'Image To Data',
-    description: 'Advanced algorithm to extract data from images like location, image capture time, and more.',
-    image: image2data,
-    url: 'https://image2data.site/'
+    title: 'AI Chef',
+    description: 'add the ingredients and get the recipe based on the ingredients.',
+    image: Recipiai,
+    url: 'https://aichef.nexora-ai.co.in/'
   },
   {
     title: 'Travel Ai',
@@ -88,7 +89,7 @@ export default function Projects() {
                   rel="noopener noreferrer"
                   className="mt-4 inline-flex items-center text-sm font-medium text-blue-400 hover:text-blue-300"
                 >
-                  Learn more <ArrowRight className="ml-2 h-4 w-4" />
+                  Visit Us <ArrowRight className="ml-2 h-4 w-4" />
                 </a>
               </div>
             </div>
