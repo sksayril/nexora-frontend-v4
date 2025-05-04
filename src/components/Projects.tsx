@@ -1,12 +1,13 @@
 import React from 'react';
 import { ArrowRight } from 'lucide-react';
-import image2data from '../../public/image2data.jpg';
+// import image2data from '../../public/image2data.jpg';
 // import thecpccal from '../../public/7thcpccalculator.png';
 import quizgenai from '../../public/quizgeneratorai.jpg';
 import b2bbusinessleads from '../../public/b2bbusinessleads.png';
-import WebsiteBuilderAi from '../../public/websitebulderai.png';
-import Travelplannerlogo from '../../public/travelplaneer.png';
+// import WebsiteBuilderAi from '../../public/websitebulderai.png';
+import Travelplannerlogo from '../../public/travelainewlogo.jpg';
 import resumebuilderai from '../../public/previewresumebuilder.jpg';
+import notesmarket from '../../public/notesmarket.png';
 import Recipiai from '../../public/recipiai.jpg';
 const projects = [
   {
@@ -46,10 +47,10 @@ const projects = [
     url: 'https://b2bbusineesleads.shop/'
   },
   {
-    title: 'Website Builder Ai',
-    description: 'Passed Your Api Key and have to passed the Prompt Redy Your Website.',
-    image: WebsiteBuilderAi,
-    url: 'http://localhost:5173/'
+    title: 'Notes Mrket',
+    description: 'Best notes forever for students.',
+    image: notesmarket,
+    url: 'https://notesmarket.in/'
   },
 ];
 
