@@ -4,11 +4,11 @@ import { ArrowRight } from 'lucide-react';
 // import thecpccal from '../../public/7thcpccalculator.png';
 import quizgenai from '../../public/quizgeneratorai.jpg';
 import b2bbusinessleads from '../../public/b2bbusinessleads.png';
-// import WebsiteBuilderAi from '../../public/websitebulderai.png';
-import Travelplannerlogo from '../../public/travelainewlogo.jpg';
+  // import WebsiteBuilderAi from '../../public/websitebulderai.png';
+import Travelplannerlogo from '../../public/thetravelaioo0.png';
 import resumebuilderai from '../../public/previewresumebuilder.jpg';
 import notesmarket from '../../public/notesmarket.png';
-import Recipiai from '../../public/recipiai.jpg';
+import Recipiai from '../../public/cutinaryai1.png';
 const projects = [
   {
     title: 'AI Chef',
